@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Flutter**
 
+- 📫 I  have complete data analysis by using python numpy pandas
+
 - 📫 How to reach me **faisal1997kh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
